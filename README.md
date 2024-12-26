@@ -1,4 +1,4 @@
-# [Custom Paint by Numbers](https://paintvibe.com/products/photo-to-custom-paint-by-numbers/)
+# [Custom Paint by Numbers]
 
 **[Custom Paint by Numbers](https://paintvibe.com/products/photo-to-custom-paint-by-numbers/)** is a lightweight, intuitive web application designed to calculate the amount of paint required to cover a vehicle or similar structure. It accounts for the structure's dimensions (length, width, and height) and the number of coats needed, providing a real-time calculation of paint in gallons.
 
